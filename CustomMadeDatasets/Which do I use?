@@ -3,3 +3,10 @@ Size 1000,2
 
 Custom Dataset 5 with torch.rand and the dates
 Size 1000,2
+
+
+Test Cases 94 Follow this notation and principal 
+𝑇 (𝑥) = 𝐴1 sin( 1/2𝑥 + 𝜋) + 𝐴2 sin(2𝑥 − 𝜋) (3) where we construct the following datasets to cover three different cases:
+• Low-Frequency Priority (LPF): The energy in the low frequency is two times that of the high frequency (i.e. 𝐴1 = 2𝐴2).
+• High-Frequency Priority (HPF): The energy in the high frequency is two times that of the low frequency (i.e. 𝐴2 = 2𝐴1).
+• Equal Frequency Priority (EPF): The energy in both frequencies is equal (i.e. 𝐴1 = 𝐴2).
