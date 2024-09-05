@@ -73,6 +73,18 @@ test94L_np = test94L.numpy()
 test94L_df = pd.DataFrame(test94L_np)
 test94L_df.to_csv(os.path.join('test case','test94L.csv'),index=False,header=header)
 
+test94Hy=(HA1*torch.sin(1/2*test94x+math.pi)+HA2*torch.sin(test94x-math.pi)).view(size,1)
+# print(test94Ly.shape)
+
+# Combing them
+test94H = torch.cat((test94x,test94Hy),dim=1)
+# print(test94L.shape) # torch.Size([1000, 2])
+header = ['date','F1']
+# Converting to csv
+test94H_np = test94H.numpy()
+test94H_df = pd.DataFrame(test94H_np)
+test94H_df.to_csv(os.path.join('test case','test94H.csv'),index=False,header=header)
+
 test94Ey=(EA1*torch.sin(1/2*test94x+math.pi)+EA2*torch.sin(test94x-math.pi)).view(size,1)
 # print(test94Ly.shape)
 
