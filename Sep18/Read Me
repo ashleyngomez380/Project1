@@ -1,0 +1,6 @@
+This contains 2 files
+normaldutchPowerDataF1Label.csv
+This will be (29562,2) containing the F1 and the label
+and 
+normaldutchPowerDataDateF1Label.csv
+This will be (29562,3) containing the Date, F1 and the label
