@@ -31,3 +31,21 @@ Random_100_days_with_10_type_2 is as the name implies a npy.array with 100 days 
 This size is 9600
 
 ![image](https://github.com/user-attachments/assets/a7e02761-2ac2-4f11-818e-95772b4b760d)
+
+
+Using this equation 𝑇 (𝑥) = 𝐴1 sin( 12𝑥 + 𝜋) + 𝐴2 sin(2𝑥 − 𝜋)
+
+Equal_freq_data (A1=A2)
+
+![image](https://github.com/user-attachments/assets/a3d05929-d356-41ca-9924-1cd6f648ebcf)
+
+
+High_freq_data (A1=2A2)
+
+![image](https://github.com/user-attachments/assets/e030759f-1646-49c7-9426-86fbaeef39ac)
+
+
+Low_freq_data (A2=2A1)
+
+![image](https://github.com/user-attachments/assets/0cae67e1-faa5-4e1d-8cff-b5af6ba080b6)
+
