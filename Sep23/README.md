@@ -20,7 +20,7 @@ we have a bias so type 1 is likely to occurs 10 times more than type 2 . Type 1 
 This size is 9600
 ![random_100_days_with_10_type_1](https://github.com/user-attachments/assets/deeebcf9-3276-4729-89fb-5ae99886ee48)
 
-Random_100_days_with_10_type_2 is as the name implies a npy.array with 100 days randoly assignmed as type 1 or type 2 still
-we have a bias so type 2 is likely to occurs 10 times more than type 1 . Type 1 tall sin curve Type2 small sin curve
+Random_100_days_with_10_type_2 is as the name implies a npy.array with 100 days randoly assignmed as type 1 or type 2 still we have a bias so type 2 is likely to occurs 10 times more than type 1 . Type 1 tall sin curve Type2 small sin curve
 This size is 9600
+
 ![random_100_days_with_10_type_2](https://github.com/user-attachments/assets/8deb4346-93cb-40bc-b89b-6382207f5fd1)
