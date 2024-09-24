@@ -3,7 +3,7 @@ fourtyfourweeks . This is a synthetic dataset that shows normal 44 week parttern
 96 points and we having 5 high peaks then 2 low peaks
 This size is 4224
 
-Onetoten is a npy array that has a occurance of 10:1 with 10 high peaks followed with a low peak again a day 
+Onetotentype1 is a npy array that has a occurance of 10:1 with 10 high peaks followed with a low peak again a day 
 being 96 points repeated 10 times
 This is size 10560
 
